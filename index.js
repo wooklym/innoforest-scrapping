@@ -27,7 +27,7 @@ const main = async () => {
         "sec-fetch-mode": "cors",
         "sec-fetch-site": "same-site",
         "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",
-        "authorization": "Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxMjNhc2RmcUBzbnUuYWMua3IiLCJST0xFUyI6WyJVU0VSIl0sImV4cCI6MTY3MDIzODgzNCwiaWF0IjoxNjcwMTUyNDM0fQ.6i-QGMuw7nsoT9LVovbPmC_382SXG2eHaUE9lRn8Gkgs6IOM2Xr09ABkxbglrJvHW0uiWozXpLceu2XP3BIGCg",
+        "authorization": "Bearer FIXME",
       }
     };
 
